@@ -11,7 +11,7 @@ exercice de synthèse du cours de programmation orientée objet :
 
 cette mini application permet :
 
--manipulation (affichage et déplacement) des formes comme des rectangles et des cercles,
+-manipulation (affichage et déplacement) des formes comme des rectangles et des cercles (affichage des formes textuel)
 
 -regroupement d’objets afin de leur faire subir un traitement global (par exemple, déplacer ensemble un cercle et un rectangle),
 
